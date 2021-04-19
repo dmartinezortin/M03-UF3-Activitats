@@ -88,6 +88,7 @@ void executeOrder(int option){
 		addContent();
 		break;
 	case 4:
+		printf("Saliendo...");
 		break;
 	}
 }
